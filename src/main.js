@@ -38,6 +38,8 @@ Vue.use(BootstrapVue);
 Vue.config.productionTip = false;
 
 const router = new VueRouter({
+  // to prevent hashtag in url use in history mode
+  mode: 'history',
   routes: [
     { path: "/", component: Home },
     { path: "/resume-analyser", component: ResumeAnalyser },
