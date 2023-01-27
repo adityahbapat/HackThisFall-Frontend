@@ -14,7 +14,7 @@
 
         <v-card-actions>
           <div class="text-center">
-            <router-link to="/BookCategory">
+            <router-link to="/JobCategory">
               <v-btn rounded color="#26c6da" dark elevation="24" block>
                 Explore Our Categories
               </v-btn>

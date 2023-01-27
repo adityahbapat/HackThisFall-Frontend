@@ -26,9 +26,9 @@
               color="#26C6DA"
               dark
               style="font-size: 10px;font-weight: bold;margin-left:5px;"
-              to="/BookCategory"
+              to="/JobCategory"
             >
-              Categories
+             Job Categories
             </v-btn>
           </v-col>
         </div>
@@ -99,9 +99,9 @@
             </router-link>
             <v-divider></v-divider> -->
 
-            <router-link to="/BookCategory">
+            <router-link to="/JobCategory">
               <v-list-item>
-                <h4 style="font-weight:bold;margin-left:10%;">Categories</h4>
+                <h4 style="font-weight:bold;margin-left:10%;">Job Categories</h4>
               </v-list-item>
             </router-link>
 

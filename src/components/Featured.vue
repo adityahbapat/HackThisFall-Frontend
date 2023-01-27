@@ -48,7 +48,7 @@
             <v-divider class="mx-4"></v-divider>
 
             <v-card-actions>
-              <v-btn color="deep-purple lighten-2" text to="/BookCategory">
+              <v-btn color="deep-purple lighten-2" text to="/JobCategory">
                 Apply
               </v-btn>
             </v-card-actions>

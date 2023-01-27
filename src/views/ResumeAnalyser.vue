@@ -335,7 +335,7 @@ extend("Number", {
   message: "It must me a Number",
 });
 export default {
-  name: "BookOffers",
+  name: "ResumeAnalyser",
 
   computed: {
     isDisabled() {

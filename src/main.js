@@ -7,8 +7,7 @@ import VueSession from "vue-session";
 Vue.use(VueSession)
 
 import Home from "./views/Home";
-import BookRequest from "./views/BookRequest";
-import BookOffers from "./views/BookOffers";
+import ResumeAnalyser from "./views/ResumeAnalyser";
 import Events from "./views/Events";
 import Members from "./views/Members";
 import Groups from "./views/Groups";
@@ -18,16 +17,17 @@ import Login from "./views/Login";
 import Signup from "./views/Signup";
 import Feedback from "./views/Feedback";
 import ContactUs from "./views/ContactUs"; 
-import BookCategory from "./views/BookCategory";
+import JobCategory from "./views/JobCategory";
 import EbookGroup from "./views/EbookGroup";
 import FAQpage from "./views/FAQpage";
 import Editpro from "./views/Editpro";
 import TimeL from "./views/TimeL";
 import Profile from "./views/Profile";
-import BookDetails from "./views/BookDetails";
-import AddBook from "./views/AddBook";
-import NewS from "./views/NewS";
 
+// import NewS from "./views/NewS";
+// import BookDetails from "./views/BookDetails";
+// import AddBook from "./views/AddBook";
+// import BookRequest from "./views/BookRequest";
 
 Vue.use(VueRouter);
 
@@ -40,8 +40,7 @@ Vue.config.productionTip = false;
 const router = new VueRouter({
   routes: [
     { path: "/", component: Home },
-    { path: "/bookrequest", component: BookRequest },
-    { path: "/resume-analyser", component: BookOffers },
+    { path: "/resume-analyser", component: ResumeAnalyser },
     { path: "/events", component: Events },
     { path: "/members", component: Members },
     { path: "/groups", component: Groups },
@@ -51,15 +50,17 @@ const router = new VueRouter({
     { path: "/login", component: Login },
     { path: "/feedback", component: Feedback},
     { path: "/contactus", component: ContactUs},
-    { path: "/BookCategory", component: BookCategory },
+    { path: "/JobCategory", component: JobCategory },
     { path: "/ebookgroup", component: EbookGroup},
     { path: "/faqpage", component: FAQpage},
     { path: "/Editpro", component: Editpro },
     { path: "/TimeL", component: TimeL },
     { path: "/Profile", component: Profile },
-    { path: "/BookDetails", component: BookDetails }, 
-    { path: "/AddBook", component: AddBook }, 
-    { path: "/NewS", component: NewS }, 
+    
+    // { path: "/BookDetails", component: BookDetails }, 
+    // { path: "/NewS", component: NewS }, 
+    // { path: "/AddBook", component: AddBook }, 
+    // { path: "/bookrequest", component: BookRequest },
   ],
 });
 
