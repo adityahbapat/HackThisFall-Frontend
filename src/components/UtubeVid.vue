@@ -14,7 +14,7 @@
             <div class="d-flex justify-space-between">
               <div>
                 <h1 class="font-bold pa-10" style="font-size: 3;">
-                  - What is the Book4Book -
+                  - What is the RecruitMe -
                 </h1>
               </div>
               <div>
@@ -55,7 +55,7 @@
             </div>
             <div>
               <h1 class="font-bold pa-10" style="font-size: 2.6vw;">
-                - Watch here how to register as a member of Book4Book -
+                - Watch here how to register as a member of RecruitMe -
               </h1>
             </div>
           </div></v-card
@@ -75,7 +75,7 @@
           <div class="d-flex justify-space-between">
             <div>
               <h1 class="font-bold pa-10" style="font-size: 2.6vw;">
-                - Watch here how to post a book request in Book4Book -
+                - Watch here how to apply for a job request in RecruitMe -
               </h1>
             </div>
             <div>
@@ -115,7 +115,7 @@
             </div>
             <div>
               <h1 class="font-bold pa-10" style="font-size:  2.6vw;">
-                - Watch here how to donate a book in Book4Book -
+                - Watch here how to post a job in RecruitMe -
               </h1>
             </div>
           </div>

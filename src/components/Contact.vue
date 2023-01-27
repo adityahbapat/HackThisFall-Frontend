@@ -78,7 +78,7 @@
         <p>Sri Lanka</p>
         <br />
         <p>Email:</p>
-        <p>book4book@uiu.com</p>
+        <p>recruitme@uiu.com</p>
         <br />
         <p>Phone Number</p>
         <p>011 2222 222</p>

@@ -3,14 +3,7 @@
     <v-container>
       <v-card class="mx-auto rounded-xl" max-width="100%" :elevation="15">
         <h5 class="text-center ma-6 teal--text font-bold">
-          Book4Book is a book exchange platform created by enthusiastic readers,
-          tech geeks and nature lovers from Greece subsequently spread over the
-          world. The World Summit Award 2013 paved the part for creating the Sri
-          Lankan Chapter of Book4Book. Through this platform we aim to support
-          the enthusiast readers via technology, within a citizen’s community
-          acting without the mediation of third parties. The site is open to
-          those who want to share or request books, and also encourages users to
-          organize events for mass book exchange.
+          We are RecruitMe. A young team with a vision to help get jobs for everyone.
         </h5>
       </v-card>
 
@@ -27,38 +20,30 @@
             style=" background-image: linear-gradient( 345deg, #1dcce0, teal);"
             :elevation="15"
           >
-            <h2 class="text-center font-weight-bold">Sri Lankan ambassador
+            <h2 class="text-center font-weight-bold">Company HR
             </h2> 
             <v-divider></v-divider>
 
             <div >
                   <h4 class="font-weight-bold text-center ml-5 mt-1">
-                    - Giwantha pitawala -
+                    - Y.S Rao -
                   </h4>
                   <p class="text-center mx-6">
-                    Giwantha pitawala is ICT for development enthusiast and a
-                    researcher. He likes music and plays guitar and Sitar. He
-                    initiated the Book4Book Sri Lanka chapter with Kassie
-                    parallel to the World Summit Award 2013.
+                    It is in the hands of youngsters like Kushal, Arnav, Samay and Aditya to help our country grow. They provide us with fabulous candidates along with their assessments.
                   </p>
                   <p class="font-italic text-center font-weight-black">
-                    “Books are the quietest and most constant of friends; they
-                    are the most accessible and wisest of counselors, and the
-                    most patient of teachers.”
+                    “Best of Luck. Keep Growing”
                   </p>
 
-                  <h5 class="font-weight-bold text-right">
-                    – Charles W. Eliot
-                  </h5>
                   <v-card-text>
                     <div class="d-flex justify-space-between">
                       <div>
                         <v-icon size="25px" class="ml-6"> mdi-facebook </v-icon
-                        >- Giwantha pitawala
+                        >- RecruitMe
                       </div>
                       <div>
                         <v-icon size="25px" class="ml-6"> mdi-linkedin </v-icon
-                        >- GiwiPitz
+                        >- RecruitMe
                       </div>
                       <div>
                         <v-icon size="25px" class="ml-6"> mdi-dialpad </v-icon>-
@@ -66,7 +51,7 @@
                       </div>
                       <div>
                         <v-icon size="25px" class="ml-6"> mdi-email </v-icon>-
-                        Pitawalagiwi@gmail.com
+                        recruitme@gmail.com
                       </div>
                     </div></v-card-text>
             </div>

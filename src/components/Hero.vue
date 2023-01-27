@@ -28,8 +28,8 @@ export default {
           title: "Getting ready to work again",
         },
         {
-          src: require("../assets/images/2.jpg"),
-          title: "I am born to achieve my goals",
+          src: "https://recruitingdaily.com/wp-content/uploads/2022/11/banner-image-homepage.jpg",
+          title: "Recruit the best candidates",
         },
         {
           src: "https://hiringsolved.com/wp-content/uploads/2022/03/resource-banner-dl-default2x.png",

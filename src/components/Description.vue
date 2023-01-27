@@ -9,14 +9,7 @@
         style="background-image: linear-gradient(to right, #c04848, #480048)"
       >
         <p class="text-center">
-          Book4Book is a book exchange platform created by enthusiastic readers,
-          tech geeks and nature lovers from Greece subsequently spread over the
-          world. The World Summit Award 2013 paved the part for creating the Sri
-          Lankan Chapter of Book4Book. Through this platform we aim to support
-          the enthusiast readers via technology, within a citizen’s community
-          acting without the mediation of third parties. The site is open to
-          those who want to share or request books, and also encourages users to
-          organize events for mass book exchange.
+          RecruitMe - the best job portal award winner 2023
         </p>
 
         <v-card-actions>

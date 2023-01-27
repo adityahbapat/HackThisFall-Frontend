@@ -6,7 +6,7 @@
       <v-expansion-panel>
         <v-expansion-panel-header class="subtitle-1 font-weight-bold">1. Having trouble with registering</v-expansion-panel-header>
         <v-expansion-panel-content class="body-1">
-         <router-link to="/"><p class="text-decoration-underline">- How to register at book4book</p></router-link>
+         <router-link to="/"><p class="text-decoration-underline">- How to register at RecruitMe</p></router-link>
         </v-expansion-panel-content>
       </v-expansion-panel>
     
@@ -15,7 +15,7 @@
         <v-expansion-panel-header class="subtitle-1 font-weight-bold">2. Having trouble when loggin into my account</v-expansion-panel-header>
         <v-expansion-panel-content class="body-1">
           <div>
-         <router-link to="/"><p class="text-decoration-underline">- If you are having problems logging into book4book.lk </p></router-link>
+         <router-link to="/"><p class="text-decoration-underline">- If you are having problems logging into RecruitMe.lk </p></router-link>
          <router-link to="/"><p class="text-decoration-underline">- If you can't logout from your account</p></router-link>
           </div>
         </v-expansion-panel-content>

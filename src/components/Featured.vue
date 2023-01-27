@@ -68,8 +68,8 @@ export default {
       {
         id: 1,
         title: "ML Engineer",
-        subtitle: "Quantiphi",
-        description: "Hamare paas framework engineer ka post bhi hai.",
+        subtitle: "Barclays",
+        description: "We are as Indian as Simon.",
         src: require("../assets/images/10.jpg"),
         ratings: "4.5 (413)",
         value: "4.5"
