@@ -73,9 +73,9 @@
       <v-col>
         <p>Address</p>
         <p>No. 001</p>
-        <p>colombo 00</p>
+        <p>Sasoon Dock</p>
         <p>Western Province</p>
-        <p>Sri Lanka</p>
+        <p>India</p>
         <br />
         <p>Email:</p>
         <p>recruitme@uiu.com</p>

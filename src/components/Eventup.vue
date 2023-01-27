@@ -97,21 +97,21 @@ export default {
       {
         id: 1,
         title: "Upcoming event 1",
-        description: "a good news for book lovers. Colombo International Book Fair CIBF 2020 begins at the Bandaranaike Memorial International Conference Hall (BMICH) from the September 18th Friday to the 27th Sunday. CIBF is the Sri Lanka’s largest book Exhibition. There will be strict safety measures due to ongoing Coronavirus outbreak.",
+        description: "a good description.",
         src: require("../assets/images/ev4.jpg"),
         titleHover: "Event Date & time 1"
       },
       {
         id: 2,
         title: "Upcoming event 2",
-        description: "Sri Lanka Book Publishers Association is organizing the fair for the 22nd year. Book Publishers Association says there will be about 400 stalls both local and foreign. Around 150 publishing companies will participate in the fair this year. Entrance is free for schoolchildren, university students, members of the clergy and armed forces personnel (in uniform).",
+        description: "a good description.",
         src: require("../assets/images/ev4.jpg"),
         titleHover: "Event Date & time 2"
       },
       {
         id: 3,
         title: "Upcoming event 3",
-        description: "There will be strict safety measures due to ongoing Coronavirus outbreak. a good news for book lovers. Colombo International Book Fair CIBF 2020 begins at the Bandaranaike Memorial International Conference Hall (BMICH) from the September 18th Friday to the 27th Sunday. CIBF is the Sri Lanka’s largest book Exhibition. ",
+        description: "a good description.",
         src: require("../assets/images/ev4.jpg"),
         titleHover: "Event Date & time 3"
       },
@@ -120,24 +120,11 @@ export default {
        {
         id: 1,
         title: "Old event 1",
-        description: "a good news for book lovers. Colombo International Book Fair CIBF 2020 begins at the Bandaranaike Memorial International Conference Hall (BMICH) from the September 18th Friday to the 27th Sunday. CIBF is the Sri Lanka’s largest book Exhibition. There will be strict safety measures due to ongoing Coronavirus outbreak.",
+        description: "a good description for old events.",
         src: require("../assets/images/ev1.jpg"),
         titleHover: "Event Date & time 1"
       },
-      {
-        id: 2,
-        title: "Old event 2",
-        description: "Sri Lanka Book Publishers Association is organizing the fair for the 22nd year. Book Publishers Association says there will be about 400 stalls both local and foreign. Around 150 publishing companies will participate in the fair this year. Entrance is free for schoolchildren, university students, members of the clergy and armed forces personnel (in uniform).",
-        src: require("../assets/images/ev2.jpg"),
-        titleHover: "Event Date & time 2"
-      },
-      {
-        id: 3,
-        title: "Old event 3",
-        description: "There will be strict safety measures due to ongoing Coronavirus outbreak. a good news for book lovers. Colombo International Book Fair CIBF 2020 begins at the Bandaranaike Memorial International Conference Hall (BMICH) from the September 18th Friday to the 27th Sunday. CIBF is the Sri Lanka’s largest book Exhibition. ",
-        src: require("../assets/images/ev3.jpg"),
-        titleHover: "Event Date & time 3"
-      }
+    
     ]
   }),
 };

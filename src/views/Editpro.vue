@@ -16,7 +16,7 @@
         </v-col>
           <v-divider vertical ></v-divider>
 
-        <validation-observer  ref="observer" v-slot="">
+        <validation-observer  ref="observer" >
           <v-form ref="form" v-model="valid" lazy-validation >
           <v-col md="10" offset-md="1">     
 
