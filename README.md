@@ -14,4 +14,5 @@ truffle console
 
 Create migration file
 deploy -reset (imp)
+clear ganache folder in App Data folder in "Aditya Bapat" (user folder in windows) if ganache does not work after wifi change
 truffle migrate -reset (to deploy contracts)
