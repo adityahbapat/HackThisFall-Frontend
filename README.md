@@ -13,4 +13,5 @@ truffle console
 -> .exit
 
 Create migration file
+deploy -reset (imp)
 truffle migrate -reset (to deploy contracts)
